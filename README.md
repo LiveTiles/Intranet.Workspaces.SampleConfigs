@@ -9,5 +9,5 @@ If you like to share a configuration just create a PR.
 If you have a question regarding the usage or configuration of LiveTiles Intranet Workspaces you can open an issue.
 
 ## Documentation
-Visit https://docs.LiveTiles Intranet365.com/docs/en/workspaces/overview/ for documentation about LiveTiles Intranet Workspaces.
+Visit https://docs.matchpoint365.com/docs/en/workspaces/overview/ for documentation about LiveTiles Intranet Workspaces.
 In case you miss something in the documentation, please open an issue.
